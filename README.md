@@ -49,11 +49,7 @@ python3 -m streamlit run dashboard.py
 - During live matches FPL may throttle or change values; expect brief inconsistencies.
 - Layout can vary slightly by browser width; the table is intentionally narrow for readability.
 
-## Contributing
-Issues and pull requests are welcome. Please keep changes small and describe the reasoning in the commit message.
 
-## License
-MIT — see `LICENSE`.
 
 ---
 
